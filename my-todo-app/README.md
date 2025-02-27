@@ -1,13 +1,57 @@
-# Getting Started with Create React App
+# 📝 To-Do List App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple, interactive, and visually appealing **To-Do List App** built with **React**. This app allows users to **add, edit, complete, and delete tasks** efficiently with a user-friendly interface.
 
-## Available Scripts
+## ✨ Features
+✔️ **Add Tasks** – Users can add new tasks.  
+✔️ **Edit Tasks** – Modify existing tasks.  
+✔️ **Mark as Completed** – Tasks can be marked as completed with a strikethrough effect.  
+✔️ **Delete Tasks** – Remove tasks from the list.  
+✔️ **Smooth Animations** – Beautiful UI with animations for a better experience.  
+✔️ **Fully Responsive** – Works on mobile, tablet, and desktop screens.  
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Live Demo  
+🔗 **[View Live App](https://inspiring-bombolone-5df4a3.netlify.app/))** 
 
+---
+
+## 🛠️ Technologies Used  
+- **React** ⚛️  
+- **JavaScript (ES6+)**  
+- **CSS (Custom Styling & Animations)**  
+- **React Hooks (useState, useEffect)**  
+
+---
+
+## 📌 Installation & Setup  
+
+### **1️⃣ Clone the Repository**  
+```sh
+git clone https://github.com/your-username/InnomaticsInternshiptask5.git
+cd InnomaticsInternshiptask5
+2️⃣ Install Dependencies
+sh
+Copy
+Edit
+npm install
+3️⃣ Run the App Locally
+sh
+Copy
+Edit
+npm start
+Open http://localhost:3000 in your browser.
+
+📦 Deployment
+🔹 Deploy on Netlify
+Run:
+sh
+Copy
+Edit
+npm run build
+Upload the build/ folder to Netlify for deployment.
+🔗 Live URL: Your Netlify Link
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
