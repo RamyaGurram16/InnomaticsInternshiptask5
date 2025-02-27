@@ -13,7 +13,7 @@ A simple, interactive, and visually appealing **To-Do List App** built with **Re
 ---
 
 ## 🚀 Live Demo  
-🔗 **[View Live App](https://inspiring-bombolone-5df4a3.netlify.app/))** 
+🔗 **[View Live App](https://inspiring-bombolone-5df4a3.netlify.app/)** 
 
 ---
 
@@ -51,7 +51,7 @@ Copy
 Edit
 npm run build
 Upload the build/ folder to Netlify for deployment.
-🔗 Live URL: Your Netlify Link
+🔗 Live URL: [Your Netlify Link](https://inspiring-bombolone-5df4a3.netlify.app/)
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
